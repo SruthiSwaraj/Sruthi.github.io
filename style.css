@@ -45,3 +45,18 @@ footer {
         margin-bottom: 10px;
     }
 }
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.skill i {
+    margin-right: 5px;
+}
+
+.skill-bar {
+    height: 10px;
+    background-color: #4CAF50;
+    margin-top: 5px;
+}
+
